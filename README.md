@@ -31,7 +31,7 @@ or from our <a href="https://github.com/LethalCMod">GitHub</a> website.
 ---
 ### *Report Bugs*!
 
-Report bugs or suggest improvements by <a href="https://github.com/LethalCMod/Lethal-CMod-/issues" target="_blank">creating an issue</a> or via the <a href="https://github.com/LethalCMod/Lethal-CMod-/issues/new" target="_blank">direct link</a>!
+Report bugs or suggest improvements by <a href="https://github.com/LethalCMod/LethalFunMod/issues" target="_blank">creating an issue</a> or via the <a href="https://github.com/LethalCMod/Lethal-CMod-/issues/new" target="_blank">direct link</a>!
 
 ---
 ### *Update Calendar*
